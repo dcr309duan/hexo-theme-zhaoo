@@ -59,7 +59,7 @@ preview:
     api: https://v1.hitokoto.cn/?encode=text&c=d
 
 # Copyright
-copyright: <p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  Theme - <a target="_blank" href="https://github.com/izhaoo/hexo-theme-zhaoo">zhaoo</a></p>
+copyright: <div><a href="http://www.beian.miit.gov.cn/" rel="external nofollow" target="_blank">京ICP备20017514号</a><div style="width:300px;margin:0 auto; padding:20px 0;"><a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010802031832" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin:0px 0px 0px 5px; color:#939393;">京公网安备 11010802031832号</p></a></div></div>
 
 # Social
 social:
