@@ -104,8 +104,8 @@ post_page_size:
 # Donate
 donate:
   enable: true
-  alipay: https://pic.izhaoo.com/alipay.jpg
-  wechat: https://pic.izhaoo.com/wechat.jpg
+  alipay: http://cdn.mlya.xyz/WechatIMG965.jpeg
+  wechat: http://cdn.mlya.xyz/WechatIMG964.jpeg 
 
 # Copyright
 post_copyright:
